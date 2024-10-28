@@ -73,6 +73,3 @@ This table stores salary-related metrics:
 
 _Description: Job Offer Salary Analysis Dashboard Overview_
 
----
-
-You can customize the `Dataset` section with more details if you recall the specific transformations done via Talend. Additionally, update the screenshot file path once you upload the relevant images to GitHub. Let me know if you want to include any specific details or sections!
